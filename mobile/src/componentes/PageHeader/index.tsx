@@ -19,7 +19,7 @@ const PageHeader: React.FC<PageHeaderProps> = ({title}) => {
         navigate('Landing');
     }
     return (
-    < View style={styles.container} > 
+    <View style={styles.container} > 
     <View style ={styles.topBar} >
         <BorderlessButton onPress ={ handleGoback}>
             <Image source={backIcon} resizeMode ='contain' />
