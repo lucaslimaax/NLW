@@ -32,7 +32,7 @@ Este projeto é um sistema web dividido em três partes, sendo backend, frontend
 - [Express](https://expressjs.com/pt-br/): versão 4.17.1
 - [Cors](https://www.npmjs.com/package/cors): versão 4.17.12.8.5
 
-##Fonts :books:
+## Fonts :pencil:
 - [Fonts:](https://fonts.google.com/):
 expo install @expo-google-fonts/archivo @expo-google-fonts/poppins
 
